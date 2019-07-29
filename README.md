@@ -1,2 +1,2 @@
 # soundCloud
-Prototype android app
+Prototype android music app
